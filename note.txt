@@ -1,0 +1,66 @@
+		PSD to HTML/CSS
+- Thiết kế giao diện bằng photosop, figma
+- học thêm các phần mềm đồ hoạ
+
+----------
+các phím tắt
+- Move tool: V
+- công cụ chọn: M
+- chữ nhật
+- zoom: Z
+	~ Ctrl + + -
+- Hand tool: 
+	hoặc giữ phím 'space' để kéo qua lại
+
+-----------
+Layer: lớp
+	~ như các lớp kính được xếp lên nhau
+	~ mỗi layer lại có các effect, hiệu ứng 
+
+------
+cách lấy hình ảnh
+	chuột phải -> Quick export as PNG
+note: chú ý cách lấy sao cho tối ưu nhất 
+	(dung lượng, độ sắc nét, cắt, xoay, fx, logo ...)
+
++ nhọn nhiều layer (Ctrl + chuột)
+--> ctrl + g -> group  -> quick export
+
+- bật tắt đường grid -> ctrl + ;
+	-> bắt dính auto: view -> Snap
+----------------------------------------------------------
+		CÁCH LẤY các THUỘC TÍNH TRONG PTS
+
+1. Text:
+	- font-family
+	- font-size
+	- font-weight
+	- line-height
+	- Màu:
+		+ phải xem cả effects (color overley)
+		+ opacity ..., rgba(,,,)
+		+ chú ý các thông số
+	
+2. Border
+	- hình học
+	- Stroke effect
+
+3. Gradient
+	- Fill
+	- Gradient overlay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
